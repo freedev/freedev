@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 ![Vincenzo D'Amore's GitHub stats](https://github-readme-stats.vercel.app/api?username=freedev&show_icons=true&theme=radical)
+
+![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png)
