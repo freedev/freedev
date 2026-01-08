@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=freedev&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=freedev&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **freedev/freedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Vincenzo D'Amore's GitHub stats](https://github-readme-stats.vercel.app/api?username=freedev&show_icons=true&theme=radical)
+![Vincenzo D'Amore's GitHub stats](https://github-profile-trophy-fork-two.vercel.app/api?username=freedev&show_icons=true&theme=radical)
